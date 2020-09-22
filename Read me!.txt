@@ -1,0 +1,74 @@
+
+			Dev Fade OCX Read-Me
+			--------------------
+
+
+	Contents:
+	--------
+
+1.	Version Info
+2.	Using Dev Fade OCX
+3.	Website
+4.	Contacting
+
+
+
+1.	Version Info:
+	------------
+	
+	Dev Fade OCX Version 1.12
+	Copyright 1998 - 99 Dev Enterprise
+	Created:  28 November 1999
+	Updated:  26 February 2000
+
+
+
+
+2.	Using Dev Fade OCX:
+	------------------
+
+  Running Dev Fade OCX:
+  -------------
+
+To run Dev Fade OCX run FadeOCX.vbg
+
+
+  The Properties:
+  --------------
+
+Backcolor:	Sets the background colour of the control.
+Example:	Fade1.Backcolor = VBButtonFace
+
+
+Caption:	Sets the caption of the faded text.
+Example:	Fade1.Caption = "Dev Fade OCX"
+
+
+Color1:		Sets the first colour of the text fade
+Example:	Fade1.Color1 = VBRed
+
+
+Color2:		Sets the last colour of the text fade
+Example:	Fade1.Color2 = VBBlack
+
+
+Font:		Sets the font of the control.
+Example:	Fade1.font = Arial Black
+
+
+
+
+3.	Website
+	-------
+
+Check out http://www.brechin.clara.net/  for more great
+software and Visual Basic help!
+
+
+
+4.	Contacting
+	----------
+
+If you have any questions or comments then feel free to email
+me at ice_devel@hotmail.com
+
